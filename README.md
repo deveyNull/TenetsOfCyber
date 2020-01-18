@@ -4,6 +4,8 @@ These are the unsolicited opinions of someone who has never conducted cyber oper
 Take that as you will. Feedback appreciated @deevnull. 
 
 1. Attribution
+    1. Attribution, in this very limited dialog, is defined as the ability to identify an action or series of actions as the result of a specific individual or organization that is grounded upon enough evidence to launch a Tomahawk at them. 
+        1. A confidence level for attribution is useful for just about any other use case, especially in the private sector. 
     1. **You cannot attribute any attack using exclusively digital artifacts.**
         1.  Tools are not attributable.
         2. Techniques are not attributable.
