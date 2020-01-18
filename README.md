@@ -36,9 +36,10 @@ Take that as you will. Feedback appreciated @deevnull.
       1. _Only meaningful deterrence is via cost imposition_
           1. Resilience
               1. Defense in depth makes it take more time/energy/resources
-          2. Cost of exploits
+          2. Cost of exploits/tooling
               1. Make it so first use of exploit the only time it is zero day
               2. Time to patch speed needs to be fast
+              3. Open source tooling/dumping exploits on Twitter makes this very difficult to effect
           3. Passing real world sanctions
               1. You probably won&#39;t be able to arrest individual actors, but if they are not state sponsored or like to go on vacation it is possible
                   1. Indicting them sets a weird precedent and accomplishes nothing... signaling?
