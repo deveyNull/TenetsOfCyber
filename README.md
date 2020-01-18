@@ -12,8 +12,8 @@ Take that as you will. Feedback appreciated @deevnull.
             1. The location of computers and &quot;ownership&quot; of computers means nothing
             1. The location of the first hop off of a hacked box means less than nothing
       2. Even if you think you have tracked all the hops back to the originating server, that server might not be controlled by the owner
-        3. You will only have attribution if your attacker is a) bad b) wants you to or c) you have significant intelligence capabilities and got lucky
-          1. Meaningful attribution requires an OPSEC failure, SIGINT, HUMINT, or a combination of the three. Anything else is guesswork.
+      3. You will only have attribution if your attacker is a) bad b) wants you to or c) you have significant intelligence capabilities and got lucky
+            1. Meaningful attribution requires an OPSEC failure, SIGINT, HUMINT, or a combination of the three. Anything else is guesswork.
             1. If an organization has meaningful attribution from capital I Intelligence, it will not be shared because sources and methods need to be protected
             2. Just because there is an opsec failure doesn&#39;t mean you have attribution
                 1. Framing someone else is pretty easy.
