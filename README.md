@@ -1,7 +1,7 @@
 # Tenets of the Cyber Domain:
 
 These are the unsolicited opinions of someone who has never conducted cyber operations with no knowledge of controlled information. 
-Take that as you will. Feedback appreciated @deevnull. 
+Take that as you will. Feedback appreciated @deveynull. 
 
 1. Attribution
     1. Attribution, in this very limited dialog, is defined as the ability to identify an action or series of actions as the result of a specific individual or organization that is grounded upon enough evidence to launch a Tomahawk at them. 
