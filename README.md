@@ -22,7 +22,7 @@ Take that as you will. Feedback appreciated @deveynull.
                 1. Framing someone else is pretty easy.
                 2. Anonymity is bolstered by universal access to offensive TTPs
     2. You will not get attribution ever for the vast majority of attacks, and the ones that you get attribution for will take longer than you have for your window of response
-        1. If your doctrine assumes that you have attribution for an attack, it will not be applicable for 99.99% of cases.
+        1. **If your doctrine assumes that you have attribution for an attack, it will not be applicable for 99.99% of cases.**
     3. Unless you can prove nation state knowledge, attribute hands on keyboard to a specific actor, and intent to cause the harm that occurred, you do not have _attribution_ that is worth killing anyone over
         1. Even if an attack can be traced back to a state sponsored actor in a specific country that doesn&#39;t provide enough evidence to place blame for attack on country
         2. Intent is necessary because something that could have been meant to be a crimeware worm might knock critical systems offline or have other unintended negative side effects
@@ -45,7 +45,7 @@ Take that as you will. Feedback appreciated @deveynull.
               3. Open source tooling/dumping exploits on Twitter makes this very difficult to effect
           3. Passing real world sanctions
               1. You probably won&#39;t be able to arrest individual actors, but if they are not state sponsored or like to go on vacation it is possible
-                  1. Indicting them sets a weird precedent and accomplishes nothing... signaling?
+                  1. Indicting them sets a weird precedent and accomplishes nothing... signaling? To who?
               2. Economic sanctions on their country is pretty sweet
 
 1. Rules, Routines, Norms and International Law
@@ -64,7 +64,7 @@ Take that as you will. Feedback appreciated @deveynull.
         3. Every other country in the world would benefit from this status quo
 
 1. Threat Actors
-    1. The only reason specific threat groups exist is because they are lazy and don&#39;t change TTPs.
+    1. The only reason specific threat groups exist is because they are lazy (read:resource constrained) and don&#39;t change TTPs.
         1.  Just because identical TTPs are used doesn&#39;t mean it is the same threat group.
             1. It probably is, but in no way is that good enough for attribution
         2.  Offensive TTPs are approaching the point where they will be universal
@@ -73,15 +73,15 @@ Take that as you will. Feedback appreciated @deveynull.
         2. Can be useful for selling to uninformed higher ups you need more funds
 
 1. Advanced Persistent Threats
-     1. Everyone is an APT if they want to put the time in
+     1. Everyone is an APT if they want to put the time and money in
         1.  Cost of entry to the space is minimal due to universal access to offensive TTPs
-     2. Sophistication will vary inside of the same threat group based on needs
+     2. Sophistication will vary inside of the same threat group based on operational requirements
         1. **Whatever the minimum level of sophistication is that is required, that is what an attacker will use**
         2.  There is no reason for a group to use a million dollar 0day and their custom toolkit when an old exploit and an open source implant will do the job.
             1. There is no reason to use an exploit when phishing will do the job
                 1. There is no need to exploit anything if your databases are public facing
 2. Authorities in Cyberspace
-    1. United States
+    1. United States/FVYE/a few other folks
         1. Concept only acknowledged by the United States/allies, hamstrings us
             2.  Title 10/50 Authority is the closest we have to Title #yolo which is what everyone else uses
      2. Everyone else
@@ -90,21 +90,26 @@ Take that as you will. Feedback appreciated @deveynull.
         3. Criminals are allowed to do whatever they want as long as it doesn&#39;t hurt host country
 
 1. Signalling and Escalation in Cyberspace
-    1. Implants in Critical Infrastructure
+    1. Intelligence Gathering
+        1. Everything is intelligence gathering until proven otherwise
+        2. Everyone does it
+        3. No it is not an escalation
+    2. Implants in Critical Infrastructure
         1. We do it to, we just yell when we find stuff in our networks
         2. No benefit to anyone acting shocked, shocked I tell you when we get owned
-    2. Signaling
+    3. Signaling
         1.  Ambiguous, attacks have no clear objective until actions are taken
         2.  Almost all attacks look the same and can be repurposed at any time
         3. Nobody can tell who did what, unless you cryptographically do so. Noone has ever done that.
-    3. Speed of decision making
+    4. Speed of decision making
          1.  Decisions need to be made faster than the information needed to make the decisions will come in. The options are don&#39;t make decisions or have red lines that make your decision making process easier
-     4. Red Lines
-        1. Useful for making decisions easily
+    5. Red Lines
+        1. Useless without attribution
         2. Useless if your enemies know what they are
-        3.  Will be crossed by non-attrib actors and you won&#39;t be able to do anything about it
-    5. Escalation
-        1.  Don&#39;t be the person who starts a shooting war over some malware in your grid
+            1. Will be crossed by non-attrib actors and you won&#39;t be able to do anything about it
+    6. Escalation
+        1.  Don&#39;t be the person who starts a shooting war over some malware in your power plants
+
 
 1. Types of Action in Cyberspace (In progress, hard)
 
@@ -121,13 +126,13 @@ Take that as you will. Feedback appreciated @deveynull.
                           2. Cough
                   4. Upon detection/leak, becomes an N-day.
                       1. Cost of re-use is ZERO
-                      2. Value of exploit becomes ZERO
-                      3. Applicability of exploit approaches zero with patching and blocking
+                      2. Value of exploit approaches ZERO
+                      3. Applicability of exploit approaches zero with patching and blocking (but never comes close to zero)
                       4. Cyber proliferation makes responsible use difficult
             3. Maintaining a campaign is hard
             4. Targeting at scale with discrimination is hard
             5. Difficult to do battle damage assessments
-            6.  Once attackers are on the network, they need to be correct 100% of the time, while defenders need to only get lucky once
+            6. Once attackers are on the network, they need to be correct 100% of the time, while defenders need to only get lucky once
                   1. Maintain access in multiple ways 
     2. Strategic Level
         1. Desired effect is to hold enemy at risk
@@ -142,12 +147,12 @@ Take that as you will. Feedback appreciated @deveynull.
         1.  Defenders have to be perfect 100% of the time, attacker only needs to get lucky once. Or have an 0day.
         1. If an attacker is good, they will get in to anywhere
             1. See "Mossad gonna mossad on you"
-        2. If an attacker is persistent, they will get in to most places eventually
-    2.  Once attackers are on the network, they need to be correct 100% of the time, while defenders need to only get lucky once
+        2. If an attacker is lowercase "p" persistent, they will get in to most places eventually
+    2.  Once attackers are on the network, they need to be correct 100% of the time to avoid detection, while defenders need to only get lucky once
         1. Set up your defenses so that you can get lucky early
         2. Set up your logging so that one alert allows full Incident response
             1. Set up alerting on high fidelity indicators so that one alert results in detection
-        3.  In incident response the paradigm is flipped again. Responders need to be perfect, attackers just need to survive.
+        3.  In incident response the paradigm is flipped once again. Responders need to be perfect, attackers just need to survive.
     3. Anonymity of attacker
         1.  See Attribution.
     4. 0day Detection
@@ -224,6 +229,12 @@ Take that as you will. Feedback appreciated @deveynull.
         
 Things worth reading:
 
+- Anything by
+  - TheGrugq
+  - Dave Aitel
+  - Bruce Schneier
+  - Marasawr
+  
 - [https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561](https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561)
 - [https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128](https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128)
 - [https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd\_lpo\_sbs\_14\_t\_0?\_encoding=UTF8&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27)
@@ -234,13 +245,8 @@ Things worth reading:
 - [https://www.amazon.com/dp/B07GD4MFW2/ref=dp-kindle-redirect?\_encoding=UTF8&amp;btkr=1](https://www.amazon.com/dp/B07GD4MFW2/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1)
 - Abelson, Hal et al., Keys Under Doormats: Mandating Insecurity by Requiring Government Access to All Data and Communications, Jul 2015.
 - Barlow, John Perry, &quot;A Declaration of the Independence of Cyberspace&quot;, February 8, 1996, https://projects.eff.org/~barlow/Declaration-Final.html
-- Libicki, Martin C., Cyberdeterrence and Cyberwar, RAND Report, Santa Monica: Rand Corp., 2009, http://www.rand.org/pubs/monographs/2009/RAND\_MG877.pdf
 - Mandiant, APT1: Exposing One of China&#39;s Cyber Espionage Units, (2013) http://intelreport.mandiant.com/Mandiant\_APT1\_Report.pdf
-- Anything by
-  - TheGrugq
-  - Dave Aitel
-  - Bruce Schneier
-  - Marasawr
+
 - Steven G. Bradbury, _The Developing Legal Framework for Defensive and Offensive Cyber Operations_
 - Andru E. Wall, Demystifying the Title 10-Title 50 Debate: Distinguishing Military Operations, Intelligence Activities, &amp; Covert Action (pp 85-122 only)
 
