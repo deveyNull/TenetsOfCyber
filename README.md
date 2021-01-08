@@ -1,6 +1,7 @@
 # Tenets of the Cyber Domain:
 
-These are the unsolicited opinions of someone who has never conducted cyber operations with no knowledge of controlled information. 
+These are the unsolicited opinions of someone who has never conducted cyber operations with no knowledge of controlled information.
+
 Take that as you will. Feedback appreciated @deveynull. 
 
 1. Attribution
