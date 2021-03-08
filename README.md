@@ -262,37 +262,45 @@ Take that as you will. Feedback appreciated @deveynull.
         
 Things worth reading:
 
-- Anything by
+Anything by
   - TheGrugq
   - Dave Aitel
   - Bruce Schneier
   - Marasawr
+  - Athomsec
+  - Rob Joyce
+  - Chris Inglis
+
+Videos: 
+- Decent Argument that the Rob Joyce talk videos are better than any paper
+    - https://www.youtube.com/watch?v=gmgV4r25XxA
+    - https://www.youtube.com/watch?v=bDJb8WOJYdA
+
   
   Books: 
-- [https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128](https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128)
-- [https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561](https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561)
+    - [https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128](https://www.amazon.com/Network-Attacks-Exploitation-Matthew-Monte/dp/1118987128)
+    - [https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561](https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561)
+    - Sandworm
+    - Countdown to Zero Day: Stuxnet and the Launch of the World’s First Digital Weapon
+    - [https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=pd_sim_14_10?_encoding=UTF8&amp;pd_rd_i=1416507787&amp;pd_rd_r=868b8a07-8d03-11e8-a455-9f459e9048be&amp;pd_rd_w=2bGBV&amp;pd_rd_wg=mMDnT&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_p=2610440344683357453&amp;pf_rd_r=FGN4CHC6HEHAR4YJVD27&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27)
+    - [A Fierce Domain- Jason Healey](https://www.amazon.com/Fierce-Domain-Conflict-Cyberspace-1986/dp/098932740X)
+    - [On Cyber -Greg Conti](https://www.amazon.com/Cyber-Towards-Operational-Art-Conflict/dp/0692911561)
+    - 
 
+Papers:
 
-- [https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd\_lpo\_sbs\_14\_t\_0?\_encoding=UTF8&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27)
-- [https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=pd_sim_14_10?_encoding=UTF8&amp;pd_rd_i=1416507787&amp;pd_rd_r=868b8a07-8d03-11e8-a455-9f459e9048be&amp;pd_rd_w=2bGBV&amp;pd_rd_wg=mMDnT&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_p=2610440344683357453&amp;pf_rd_r=FGN4CHC6HEHAR4YJVD27&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27)
-- [https://www.amazon.com/Incident-Response-Computer-Forensics-Third](https://www.amazon.com/Incident-Response-Computer-Forensics-Third)
-- [https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/)
-- [https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=pd_sim_14_7?_encoding=UTF8&amp;pd_rd_i=1593271441&amp;pd_rd_r=868b8a07-8d03-11e8-a455-9f459e9048be&amp;pd_rd_w=2bGBV&amp;pd_rd_wg=mMDnT&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_p=2610440344683357453&amp;pf_rd_r=FGN4CHC6HEHAR4YJVD27&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=FGN4CHC6HEHAR4YJVD27)
-- [https://www.amazon.com/dp/B07GD4MFW2/ref=dp-kindle-redirect?\_encoding=UTF8&amp;btkr=1](https://www.amazon.com/dp/B07GD4MFW2/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1)
+- https://www.hoover.org/research/us-cyber-commands-first-decade
+- https://www.cybercom.mil/Portals/56/Documents/USCYBERCOM%20Vision%20April%202018.pdf
+- https://www.cybercom.mil/Portals/56/Documents/2020%20Tech%20Challenge%20Problems%20UNCLASS%20CAO-PAO%20FINAL.pdf?ver=2020-08-18-160721-850
+
 - Abelson, Hal et al., Keys Under Doormats: Mandating Insecurity by Requiring Government Access to All Data and Communications, Jul 2015.
 - Barlow, John Perry, &quot;A Declaration of the Independence of Cyberspace&quot;, February 8, 1996, https://projects.eff.org/~barlow/Declaration-Final.html
 - Mandiant, APT1: Exposing One of China&#39;s Cyber Espionage Units, (2013) http://intelreport.mandiant.com/Mandiant\_APT1\_Report.pdf
-
 - Steven G. Bradbury, _The Developing Legal Framework for Defensive and Offensive Cyber Operations_
 - Andru E. Wall, Demystifying the Title 10-Title 50 Debate: Distinguishing Military Operations, Intelligence Activities, &amp; Covert Action (pp 85-122 only)
-
 - Introduction to Jus Ad Bellum/Jus In Bello and Sovereignty; Use of Force and Armed Attacks; Attribution; Necessity and Proportionality 
-
 - Council of Europe Convention on Cybercrime (articles 2-8, 11, 13, 15, 22-26, 35)
-
 - Josephine Wolf, NATO&#39;s Empty Cybersecurity Gesture
-
 - Matthew Waxman, Self Defense Force Against Cyber Attacks
 - Siobhan Gorman, Cyber Combat: Act of War
-
 - Michael Schmitt, International Law and Cyber Attacks
