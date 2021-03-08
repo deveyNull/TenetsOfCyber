@@ -1,8 +1,11 @@
 # Tenets of the Cyber Domain:
+Last Updated: 08Mar2021
 
-These are the unsolicited opinions of someone who has never conducted cyber operations with no knowledge of controlled information.
+These are the unsolicited opinions of someone who has never conducted cyber operations with no knowledge of controlled information. 
 
-Take that as you will. Feedback appreciated @deveynull. 
+I have never been read in to anything and have no real world knowledge of the subject. Take that as you will. 
+
+Feedback appreciated @deveynull or d.m.devey@gmail.com. 
 
 1. Attribution
     1. Attribution is split into two distinct entities, Capital "A" and lower-case "a" attribution
